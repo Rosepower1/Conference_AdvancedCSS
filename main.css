@@ -86,7 +86,6 @@ a:hover {
   #fixed_nav {
     background-color: #fff;
     position:fixed;
-    top:5px;
     margin:0 auto;
     z-index: 1;
     width:1900px;
